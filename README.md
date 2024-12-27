@@ -1,7 +1,11 @@
 # tsuniko skins
 
 ## tsuniko
-[Download](https://drive.google.com/file/d/1SzcVLmRSzndqW1jFLqmKZ4TWSGJGRXL8/view?usp=sharing)
+![Skin Cover](Screenshots/tsuniko/cover.jpg)
+
+[tsuniko Screenshots](https://imgur.com/a/tsuniko-osu-skin-opXLhOh)
+
+[tsuniko Download](https://drive.google.com/file/d/1SzcVLmRSzndqW1jFLqmKZ4TWSGJGRXL8/view?usp=sharing)
 
 ## Zafkiel v1.3
 ![Skin Cover](Screenshots/Zafkiel/cover.jpg)
@@ -27,4 +31,4 @@
 
 
 
-[Download](https://drive.google.com/file/d/1J22vAHe6Vxw06qCUEtiFEkZ0FsVAoUqV/view?usp=sharing)
+[Zafkiel Download](https://drive.google.com/file/d/1J22vAHe6Vxw06qCUEtiFEkZ0FsVAoUqV/view?usp=sharing)
